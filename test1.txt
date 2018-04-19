@@ -1,10 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is F8D0-9F99
-
- Directory of C:\Users\nimma\Desktop\gitproject
-
-04/19/2018  11:17 AM    <DIR>          .
-04/19/2018  11:17 AM    <DIR>          ..
-04/19/2018  11:17 AM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  938,919,055,360 bytes free
+change 1
